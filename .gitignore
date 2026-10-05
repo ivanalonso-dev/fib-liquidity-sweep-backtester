@@ -1,0 +1,6 @@
+download/
+resultados/
+*.csv
+__pycache__/
+*.pyc
+.venv/
